@@ -1,6 +1,7 @@
 {
   "name": "02-tic-tac-toe",
   "private": true,
+  "homepage": "https://github.com/ArCruzdev/cuatro-en-linea.git/dist",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
